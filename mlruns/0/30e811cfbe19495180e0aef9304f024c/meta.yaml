@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/30e811cfbe19495180e0aef9304f024c/artifacts
+deleted_time: 1716049453584
+end_time: 1716049358653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 30e811cfbe19495180e0aef9304f024c
+run_name: dapper-snail-651
+run_uuid: 30e811cfbe19495180e0aef9304f024c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716049338637
+status: 3
+tags: []
+user_id: Legion

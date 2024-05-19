@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/2e97d989429a4a1b90205646620563b9/artifacts
+deleted_time: 1716047582991
+end_time: 1716047036986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2e97d989429a4a1b90205646620563b9
+run_name: adaptable-goat-129
+run_uuid: 2e97d989429a4a1b90205646620563b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716047015415
+status: 3
+tags: []
+user_id: Legion

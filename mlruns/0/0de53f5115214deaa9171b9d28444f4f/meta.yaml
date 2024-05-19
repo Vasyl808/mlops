@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/0de53f5115214deaa9171b9d28444f4f/artifacts
+deleted_time: 1716048888685
+end_time: 1716048861173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0de53f5115214deaa9171b9d28444f4f
+run_name: handsome-boar-254
+run_uuid: 0de53f5115214deaa9171b9d28444f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716048840080
+status: 3
+tags: []
+user_id: Legion

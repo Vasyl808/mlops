@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/72f4dcd6f87c4f8e88f99a7abef83369/artifacts
+deleted_time: 1716047448196
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 72f4dcd6f87c4f8e88f99a7abef83369
+run_name: bustling-turtle-422
+run_uuid: 72f4dcd6f87c4f8e88f99a7abef83369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716047432650
+status: 1
+tags: []
+user_id: Legion

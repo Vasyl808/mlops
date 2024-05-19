@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/bfa23c3e285943e0a13a13629b0ebc2d/artifacts
+deleted_time: 1716048133291
+end_time: 1716047815335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bfa23c3e285943e0a13a13629b0ebc2d
+run_name: victorious-shark-714
+run_uuid: bfa23c3e285943e0a13a13629b0ebc2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716047795224
+status: 3
+tags: []
+user_id: Legion

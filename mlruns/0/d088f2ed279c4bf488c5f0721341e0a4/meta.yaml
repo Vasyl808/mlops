@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/d088f2ed279c4bf488c5f0721341e0a4/artifacts
+deleted_time: 1716049453589
+end_time: 1716049313965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d088f2ed279c4bf488c5f0721341e0a4
+run_name: shivering-croc-629
+run_uuid: d088f2ed279c4bf488c5f0721341e0a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716049296179
+status: 3
+tags: []
+user_id: Legion
