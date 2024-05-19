@@ -6,7 +6,7 @@ import sklearn
 import numpy as np
 
 
-logged_model = 'runs:/a73e7ab366e9439e8e54f1a463bc5f07/model'
+logged_model = 'mlruns/0/a73e7ab366e9439e8e54f1a463bc5f07/artifacts/model'
 loaded_model = mlflow.pyfunc.load_model(logged_model)
 
 
