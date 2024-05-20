@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/0e78756a444548b5b29ed0cffc542dd6/artifacts
+deleted_time: 1716200133952
+end_time: 1716200035645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0e78756a444548b5b29ed0cffc542dd6
+run_name: worried-donkey-343
+run_uuid: 0e78756a444548b5b29ed0cffc542dd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716200020148
+status: 4
+tags: []
+user_id: Legion

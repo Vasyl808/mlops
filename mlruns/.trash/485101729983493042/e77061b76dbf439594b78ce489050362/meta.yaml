@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/485101729983493042/e77061b76dbf439594b78ce489050362/artifacts
+deleted_time: 1716196828821
+end_time: 1716196589349
+entry_point_name: ''
+experiment_id: '485101729983493042'
+lifecycle_stage: deleted
+run_id: e77061b76dbf439594b78ce489050362
+run_name: Logistic Regression
+run_uuid: e77061b76dbf439594b78ce489050362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716196584403
+status: 3
+tags: []
+user_id: Legion

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/723097830092343469/c58c23fa8a854da9a6ce94db0d0b4bee/artifacts
+deleted_time: 1716195960216
+end_time: 1716195741273
+entry_point_name: ''
+experiment_id: '723097830092343469'
+lifecycle_stage: deleted
+run_id: c58c23fa8a854da9a6ce94db0d0b4bee
+run_name: Random Forest
+run_uuid: c58c23fa8a854da9a6ce94db0d0b4bee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716195737586
+status: 3
+tags: []
+user_id: Legion

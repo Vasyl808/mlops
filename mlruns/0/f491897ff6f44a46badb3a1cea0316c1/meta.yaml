@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/f491897ff6f44a46badb3a1cea0316c1/artifacts
+deleted_time: 1716198539311
+end_time: 1716198170632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f491897ff6f44a46badb3a1cea0316c1
+run_name: able-boar-815
+run_uuid: f491897ff6f44a46badb3a1cea0316c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716198144239
+status: 3
+tags: []
+user_id: Legion

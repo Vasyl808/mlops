@@ -1,0 +1,15 @@
+digest: d600aba9
+name: heart-disease-cleveland-uci
+profile: '{"num_rows": 303, "num_elements": 4242}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "age", "required": true}, {"type":
+  "long", "name": "sex", "required": true}, {"type": "long", "name": "cp", "required":
+  true}, {"type": "long", "name": "trestbps", "required": true}, {"type": "long",
+  "name": "chol", "required": true}, {"type": "long", "name": "fbs", "required": true},
+  {"type": "long", "name": "restecg", "required": true}, {"type": "long", "name":
+  "thalach", "required": true}, {"type": "long", "name": "exang", "required": true},
+  {"type": "double", "name": "oldpeak", "required": true}, {"type": "long", "name":
+  "slope", "required": true}, {"type": "long", "name": "ca", "required": true}, {"type":
+  "long", "name": "thal", "required": true}, {"type": "long", "name": "target", "required":
+  true}]}'
+source: '{"url": "https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci"}'
+source_type: http

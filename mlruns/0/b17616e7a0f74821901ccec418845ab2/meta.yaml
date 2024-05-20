@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/b17616e7a0f74821901ccec418845ab2/artifacts
+deleted_time: 1716203772842
+end_time: 1716203367401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b17616e7a0f74821901ccec418845ab2
+run_name: Experiment_7
+run_uuid: b17616e7a0f74821901ccec418845ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716203341115
+status: 3
+tags: []
+user_id: Legion

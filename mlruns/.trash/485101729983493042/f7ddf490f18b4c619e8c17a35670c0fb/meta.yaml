@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/485101729983493042/f7ddf490f18b4c619e8c17a35670c0fb/artifacts
+deleted_time: 1716196758827
+end_time: 1716196609736
+entry_point_name: ''
+experiment_id: '485101729983493042'
+lifecycle_stage: deleted
+run_id: f7ddf490f18b4c619e8c17a35670c0fb
+run_name: auspicious-bear-956
+run_uuid: f7ddf490f18b4c619e8c17a35670c0fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716196609612
+status: 3
+tags: []
+user_id: Legion

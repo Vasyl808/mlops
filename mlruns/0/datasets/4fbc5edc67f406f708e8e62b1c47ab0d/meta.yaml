@@ -1,0 +1,25 @@
+digest: 699352ef
+name: heart-disease-cleveland-uci
+profile: '{"num_rows": 303, "num_elements": 8787}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "age", "required": true},
+  {"type": "double", "name": "trestbps", "required": true}, {"type": "double", "name":
+  "chol", "required": true}, {"type": "double", "name": "thalach", "required": true},
+  {"type": "double", "name": "oldpeak", "required": true}, {"type": "double", "name":
+  "ca_0", "required": true}, {"type": "double", "name": "ca_1", "required": true},
+  {"type": "double", "name": "ca_2", "required": true}, {"type": "double", "name":
+  "ca_3", "required": true}, {"type": "double", "name": "cp_0", "required": true},
+  {"type": "double", "name": "cp_1", "required": true}, {"type": "double", "name":
+  "cp_2", "required": true}, {"type": "double", "name": "cp_3", "required": true},
+  {"type": "double", "name": "exang_0", "required": true}, {"type": "double", "name":
+  "exang_1", "required": true}, {"type": "double", "name": "fbs_0", "required": true},
+  {"type": "double", "name": "fbs_1", "required": true}, {"type": "double", "name":
+  "restecg_0", "required": true}, {"type": "double", "name": "restecg_1", "required":
+  true}, {"type": "double", "name": "restecg_2", "required": true}, {"type": "double",
+  "name": "sex_0", "required": true}, {"type": "double", "name": "sex_1", "required":
+  true}, {"type": "double", "name": "slope_0", "required": true}, {"type": "double",
+  "name": "slope_1", "required": true}, {"type": "double", "name": "slope_2", "required":
+  true}, {"type": "long", "name": "target", "required": true}, {"type": "double",
+  "name": "thal_1", "required": true}, {"type": "double", "name": "thal_2", "required":
+  true}, {"type": "double", "name": "thal_3", "required": true}]}'
+source: '{"url": "https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci"}'
+source_type: http

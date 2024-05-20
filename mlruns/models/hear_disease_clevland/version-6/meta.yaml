@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1716200163566
+current_stage: Deleted_Internal
+description: null
+last_updated_timestamp: 1716202949602
+name: hear_disease_clevland
+run_id: 881cd6820758456eab30e7994547cc6a
+run_link: null
+source: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/881cd6820758456eab30e7994547cc6a/artifacts/tensorflow-model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/881cd6820758456eab30e7994547cc6a/artifacts/tensorflow-model
+user_id: null
+version: 6

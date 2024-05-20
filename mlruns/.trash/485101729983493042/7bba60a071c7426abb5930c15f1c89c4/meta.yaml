@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/485101729983493042/7bba60a071c7426abb5930c15f1c89c4/artifacts
+deleted_time: 1716196758826
+end_time: 1716196623045
+entry_point_name: ''
+experiment_id: '485101729983493042'
+lifecycle_stage: deleted
+run_id: 7bba60a071c7426abb5930c15f1c89c4
+run_name: stately-hawk-723
+run_uuid: 7bba60a071c7426abb5930c15f1c89c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716196622962
+status: 3
+tags: []
+user_id: Legion

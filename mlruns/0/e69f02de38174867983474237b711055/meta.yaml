@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/e69f02de38174867983474237b711055/artifacts
+deleted_time: 1716199906810
+end_time: 1716199834981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e69f02de38174867983474237b711055
+run_name: inquisitive-mole-742
+run_uuid: e69f02de38174867983474237b711055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716199817843
+status: 4
+tags: []
+user_id: Legion

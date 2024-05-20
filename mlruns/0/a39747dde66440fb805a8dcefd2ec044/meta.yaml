@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/a39747dde66440fb805a8dcefd2ec044/artifacts
+deleted_time: 1716203408185
+end_time: 1716203262798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a39747dde66440fb805a8dcefd2ec044
+run_name: dashing-goat-736
+run_uuid: a39747dde66440fb805a8dcefd2ec044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716203237301
+status: 3
+tags: []
+user_id: Legion

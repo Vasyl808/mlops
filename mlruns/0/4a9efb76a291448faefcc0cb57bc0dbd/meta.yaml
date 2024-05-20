@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/4a9efb76a291448faefcc0cb57bc0dbd/artifacts
+deleted_time: 1716198539312
+end_time: 1716198400729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4a9efb76a291448faefcc0cb57bc0dbd
+run_name: spiffy-slug-692
+run_uuid: 4a9efb76a291448faefcc0cb57bc0dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716198374070
+status: 3
+tags: []
+user_id: Legion

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1716203730224
+current_stage: None
+description: null
+last_updated_timestamp: 1716203730224
+name: hear_disease_clevland
+run_id: f4edc6231a1240c89e1d53ddd04fb2df
+run_link: null
+source: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/f4edc6231a1240c89e1d53ddd04fb2df/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/f4edc6231a1240c89e1d53ddd04fb2df/artifacts/model
+user_id: null
+version: 7

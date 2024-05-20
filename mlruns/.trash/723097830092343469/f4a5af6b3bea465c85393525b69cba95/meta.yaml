@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/723097830092343469/f4a5af6b3bea465c85393525b69cba95/artifacts
+deleted_time: 1716195960216
+end_time: 1716195684982
+entry_point_name: ''
+experiment_id: '723097830092343469'
+lifecycle_stage: deleted
+run_id: f4a5af6b3bea465c85393525b69cba95
+run_name: SVM
+run_uuid: f4a5af6b3bea465c85393525b69cba95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716195681822
+status: 3
+tags: []
+user_id: Legion

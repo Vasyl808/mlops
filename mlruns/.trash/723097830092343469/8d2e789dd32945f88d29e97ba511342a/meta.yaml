@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/723097830092343469/8d2e789dd32945f88d29e97ba511342a/artifacts
+deleted_time: 1716195960216
+end_time: 1716195685071
+entry_point_name: ''
+experiment_id: '723097830092343469'
+lifecycle_stage: deleted
+run_id: 8d2e789dd32945f88d29e97ba511342a
+run_name: aged-vole-260
+run_uuid: 8d2e789dd32945f88d29e97ba511342a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716195684997
+status: 3
+tags: []
+user_id: Legion

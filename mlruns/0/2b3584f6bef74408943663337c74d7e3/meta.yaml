@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/2b3584f6bef74408943663337c74d7e3/artifacts
+deleted_time: 1716198242921
+end_time: 1716198054760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2b3584f6bef74408943663337c74d7e3
+run_name: shivering-midge-949
+run_uuid: 2b3584f6bef74408943663337c74d7e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716198054714
+status: 4
+tags: []
+user_id: Legion

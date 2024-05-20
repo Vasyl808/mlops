@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/2324f8a9ec7f48e9b37c3f27de63edfb/artifacts
+deleted_time: 1716203408182
+end_time: 1716202816851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2324f8a9ec7f48e9b37c3f27de63edfb
+run_name: fearless-chimp-590
+run_uuid: 2324f8a9ec7f48e9b37c3f27de63edfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716202793786
+status: 3
+tags: []
+user_id: Legion

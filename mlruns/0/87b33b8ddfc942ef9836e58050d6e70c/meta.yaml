@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/87b33b8ddfc942ef9836e58050d6e70c/artifacts
+deleted_time: 1716203408180
+end_time: 1716202717714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 87b33b8ddfc942ef9836e58050d6e70c
+run_name: calm-swan-157
+run_uuid: 87b33b8ddfc942ef9836e58050d6e70c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716202691559
+status: 3
+tags: []
+user_id: Legion

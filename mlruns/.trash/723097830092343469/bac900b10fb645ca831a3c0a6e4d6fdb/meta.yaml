@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/723097830092343469/bac900b10fb645ca831a3c0a6e4d6fdb/artifacts
+deleted_time: 1716195960216
+end_time: 1716195744187
+entry_point_name: ''
+experiment_id: '723097830092343469'
+lifecycle_stage: deleted
+run_id: bac900b10fb645ca831a3c0a6e4d6fdb
+run_name: fearless-auk-269
+run_uuid: bac900b10fb645ca831a3c0a6e4d6fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716195744132
+status: 3
+tags: []
+user_id: Legion

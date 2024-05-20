@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/6547a4f7d8634212bcfecd8be9003180/artifacts
+deleted_time: 1716198539309
+end_time: 1716198271931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6547a4f7d8634212bcfecd8be9003180
+run_name: amusing-toad-824
+run_uuid: 6547a4f7d8634212bcfecd8be9003180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716198243839
+status: 3
+tags: []
+user_id: Legion

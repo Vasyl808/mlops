@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Legion/PycharmProjects/lab_iad1/mlruns/0/6538e6677b984b74a301b1538f916d1d/artifacts
+deleted_time: 1716200133953
+end_time: 1716200078036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6538e6677b984b74a301b1538f916d1d
+run_name: upset-dolphin-974
+run_uuid: 6538e6677b984b74a301b1538f916d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716200065319
+status: 4
+tags: []
+user_id: Legion
