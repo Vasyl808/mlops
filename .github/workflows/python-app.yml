@@ -40,8 +40,3 @@ jobs:
     - name: Test with unittest
       run: |
         python -m unittest test.py
-    - uses: akhileshns/heroku-deploy@v3.12.12 #
-      with:
-        heroku_api_key: HRKU-2add13fa-08d7-4aca-be15-90bafec646b8
-        heroku_app_name: mlopsflask
-        heroku_email: v0961491914@gmail.com
