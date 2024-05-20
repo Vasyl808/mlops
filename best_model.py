@@ -24,6 +24,6 @@ def get_model_path(model_name, model_version):
     client = MlflowClient()
     model_details = client.get_model_version(model_name, model_version)
     if model_details is not None:
-        return model_details.source
+        return model_details.run_id
     else:
         return None
