@@ -1,4 +1,4 @@
-#### Clone repository from GitHub : https://github.com/nazfurdychka/pp-labs.git
+#### Clone repository from GitHub
 
 #### Create virtual environment: 
  - go to your project directory
