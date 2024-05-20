@@ -9,7 +9,7 @@ import best_model
 
 model = best_model.select_best_model_version('hear_disease_clevland')
 path = best_model.get_model_path('hear_disease_clevland', model.version)
-loaded_model = mlflow.pyfunc.load_model(f'runs:/{path}/model')
+loaded_model = mlflow.pyfunc.load_model(f'mlruns/0/{path}/artifacts/model')
 
 
 def scale_data(date_to_transform: np.array, path: str) -> np.array:
