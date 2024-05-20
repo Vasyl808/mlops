@@ -36,7 +36,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Run retrain model script
       run: |
-        python preparation_script.py
+        python train_model.py
     - name: Test with unittest
       run: |
         python -m unittest test.py
