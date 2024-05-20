@@ -37,3 +37,9 @@ jobs:
     - name: Test with unittest
       run: |
         python -m unittest test.py
+    - name: Run retrain model script
+      run: |
+        python preparation_script.py
+    - name: Run application
+      run: |
+        python app.py
