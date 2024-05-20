@@ -103,8 +103,10 @@ def automated_model_retrain_validation_selection(data, categorys, numeric_column
 
     input_shape = (X_train.shape[1],)
     model = create_model(input_shape)
+
+    mlflow.set_tracking_uri('sqlite:////tmp/mlruns.db')
     
-    with mlflow.start_run(run_id = 'a73e7ab366e9439e8e54f1a463bc5f07'):
+    with mlflow.start_run(run_id):
         mlflow.tensorflow.autolog()
 
         dataset_train = mlflow.data.from_pandas(
