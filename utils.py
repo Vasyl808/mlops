@@ -4,10 +4,12 @@ import pandas as pd
 import sklearn.preprocessing
 import sklearn
 import numpy as np
+import best_model
 
 
-logged_model = 'runs:/a73e7ab366e9439e8e54f1a463bc5f07/model'
-loaded_model = mlflow.pyfunc.load_model(logged_model)
+model = best_model.select_best_model_version('hear_disease_clevland')
+path = best_model.get_model_path('hear_disease_clevland', model.version)
+loaded_model = mlflow.pyfunc.load_model(path)
 
 
 def scale_data(date_to_transform: np.array, path: str) -> np.array:
